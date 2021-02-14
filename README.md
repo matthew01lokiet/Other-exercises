@@ -7,7 +7,7 @@
   - `README.md` - exercise description.
   
 - **SQL Queries**:
-  - `Query.sql` - exercise implementation.
+  - `query.sql` - exercise implementation.
   - `README.md` - exercise description.
   
 - **Java 8 Streams**:
