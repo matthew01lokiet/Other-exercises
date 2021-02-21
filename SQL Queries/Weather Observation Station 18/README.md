@@ -1,6 +1,6 @@
 <h1 align="center">Weather Observation Station 18</h1>
 
-![alt text](https://images2.imgbox.com/7f/24/4zixJRml_o.png?raw=true)
+![alt text](https://github.com/matthew01lokiet/Github-repos-images/blob/main/Other/SQL/weather_observation_station_18.png)
 
 ### Link to source: 
 - <a href="https://www.hackerrank.com/challenges/weather-observation-station-18/problem">Hackerrank - Weather Observation Station 18</a>
