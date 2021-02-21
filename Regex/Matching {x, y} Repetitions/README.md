@@ -1,6 +1,6 @@
 <h1 align="center">Matching {x, y} Repetitions</h1>
 
-![alt text](https://images2.imgbox.com/7f/24/4zixJRml_o.png?raw=true)
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/Other/Regex/hfX6m6u9_o.png)
 
 ### Link to source: 
 - <a href="https://www.hackerrank.com/challenges/matching-x-y-repetitions/problem">Hackerrank - Matching {x, y} Repetitions</a>
