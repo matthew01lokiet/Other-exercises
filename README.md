@@ -1,4 +1,4 @@
-![alt text](https://images2.imgbox.com/be/9e/I1LiWatf_o.png?raw=true "Header")
+![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/MainRepos/hYpqJvma_o.png? "Header")
 ## 📖 Short description:
 `Regex` , `SQL Queries` , `Java 8 Streams` and `Bash` exercises solutions implemented by myself.
 ## 📁 Repository structure:
