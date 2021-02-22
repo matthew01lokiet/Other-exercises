@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/matthew01lokiet/Github-repos-images/main/MainRepos/hYpqJvma_o.png? "Header")
+![alt text](https://github.com/matthew01lokiet/Github-repos-images/blob/main/MainRepos/other_exercise.png? "Header")
 ## 📖 Short description:
 `Regex` , `SQL Queries` and `Bash` exercises solutions implemented by myself.
 ## 📁 Repository structure:
