@@ -15,7 +15,8 @@
   - `README.md` - exercise description.
   
 - **Bash**:
-  - `README.md` - one long file with exercises descriptions and implementations. 
+  - `script.sh` - exercise implementation.
+  - `README.md` - exercise description. 
   
 ## ℹ️ Sources:
 - <a target="_blank" href="https://www.hackerrank.com/">Hackerrank</a>
