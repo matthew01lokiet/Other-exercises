@@ -5,17 +5,14 @@
 - **Regex**:
   - Exercise title:
     - `Solution.java` - exercise implementation.
-    - `README.md` - exercise description.
-  
+    - `README.md` - exercise description.  
 - **SQL Queries**:
   - Exercise title:
     - `query.sql` - exercise implementation.
     - `README.md` - exercise description.
-  
 - **Bash**:
   - Exercise title:
     - `script.sh` - exercise implementation.
     - `README.md` - exercise description. 
-  
 ## ℹ️ Sources:
 - <a target="_blank" href="https://www.hackerrank.com/">Hackerrank</a>
